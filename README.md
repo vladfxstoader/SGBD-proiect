@@ -1,2 +1,4 @@
-# SGBD-proiect
-Final project for the DBMS course using PL/SQL (2nd year, FMI UniBuc).
+# DBMS project - PL/SQL
+
+- Designed and created a database for a library.
+- Created functions and procedures in order to query the database
